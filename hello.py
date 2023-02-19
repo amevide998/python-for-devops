@@ -1,1 +1,3 @@
-print("hello world")
+from devopslib.randomfruit import fruit
+
+print(fruit())
