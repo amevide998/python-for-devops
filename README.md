@@ -1,3 +1,5 @@
+STATUS BADGE [![.github/workflows/main.yml](https://github.com/amevide998/python-for-devops/actions/workflows/main.yml/badge.svg)](https://github.com/amevide998/python-for-devops/actions/workflows/main.yml)
+
 # python-for-devops
 
 # deploy python app
