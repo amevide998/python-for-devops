@@ -13,4 +13,7 @@
 ### command-line tool
 ### microservices
 
+#a. Create an virtual environments `virtualenv ~/.env` 
+#b. Edit `~/.bashrc`
+
 
